@@ -27,7 +27,6 @@ This module introduces me to the foundational concepts of Python programming rel
 ### Practical Example
 A multi-step calculation was implemented to estimate the number of seconds in four years. This example demonstrated how variables support modular thinking, ease assumption updates (e.g., accounting for leap years), and improve computational transparency.
 ### Intro to Programming Exercise → First Kaggle Competition
-### Overview
 This exercise marked my transition from foundational Python syntax to applied data science in a Jupyter notebook environment. It emphasized confidence in executing code cells, interpreting outputs, and working with structured datasets.
 ### Applied Learning with Real Data
 Using the **Titanic Kaggle dataset**, I:
@@ -84,3 +83,48 @@ This module strengthened my understanding of Python’s type system and demonstr
 reuse
 - Practiced applying programming logic to a real-world, competition-inspired scenario
 #### kaggle kernels output abrahamkadusei/exercise-data-types -p /path/to/dest
+---
+## 04. Conditions & Conditional Statements
+### Overview
+This module introduced conditional logic in Python, enabling programs and functions to adapt their behavior based on input values. Conditional statements are fundamental for decision-making in data processing, rule-based systems, and real-world modeling tasks.
+### Key Concepts Covered
+- **Boolean conditions**  
+  Evaluated expressions that resolve to `True` or `False` using comparison operators (`<`, `<=`, `>`, `>=`, `==`, `!=`).
+- **Conditional control flow**  
+  Used `if`, `if–else`, and `if–elif–else` statements to control which blocks of code are executed.
+- **Indentation and code blocks**  
+  Applied correct indentation to define logical execution scopes within functions and conditionals.
+- **Order of evaluation**  
+  Learned that conditional checks are evaluated sequentially and that the order of `elif` statements affects program output.
+- **Conditional calculations**  
+  Used conditions not only to assign messages, but also to perform different numerical computations based on thresholds.
+### Practical Examples
+- Evaluated body temperature to classify outcomes (normal, fever, low temperature)
+- Calculated tax obligations under different income brackets
+- Implemented dosage determination using multiple conditional thresholds
+- Demonstrated how a single function can return different outputs based on input ranges
+### Learning Outcome
+By completing this section, I developed the ability to write Python functions that respond dynamically to input data—an essential skill for data validation, business logic, and decision-driven analytics.
+## Applied Exercise: Conditional Logic in Real-World Scenarios
+This exercise applied conditional statements to realistic data scenarios, reinforcing logical reasoning and structured decision-making in Python.
+### Tasks Completed
+- **Grade classification system**  
+  Converted numerical exam scores into standardized letter grades using ordered `elif` conditions.
+- **Conditional pricing logic**  
+  Reimplemented an engraving cost estimator using `if–else` statements for material-based pricing decisions.
+- **Tier-based billing systems**
+  - Calculated water bills based on usage tiers and per-unit pricing
+  - Computed mobile data charges with base plans and overage fees
+- **Complex condition evaluation**
+  - Interacted with externally defined functions to assess nutritional thresholds
+  - Generated health warning labels based on multiple independent conditions
+### Key Skills Demonstrated
+- Translating policy rules into executable logic
+- Implementing tiered pricing and threshold-based decisions
+- Reading and using externally defined functions without full implementation details
+- Applying clean, readable conditional structures to non-trivial problems
+### Learning Outcome
+This exercise strengthened my ability to implement robust conditional logic for applied data problems. The scenarios mirror real-world use cases in admissions systems, billing platforms, public health policy, and regulatory decision tools—highlighting the importance of clear logic and correct condition ordering in applied programming.
+### Overall Outcome
+By completing this module, I gained practical experience designing decision-driven Python functions. These skills are directly applicable to data preprocessing, rule-based modeling, feature engineering, and analytical pipelines commonly used in data science and machine learning workflows.
+#### kaggle kernels output abrahamkadusei/exercise-conditions-and-conditional-statements -p /path/to/dest
