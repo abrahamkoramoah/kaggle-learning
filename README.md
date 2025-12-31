@@ -195,7 +195,7 @@ This module strengthened my understanding of Python’s core data structures and
 6. Strings and Dictionaries
 7. working with external Libraries
 ---
-### Hello, Python 
+## Hello, Python (Syntax, Variables, and Numbers)
 ### Overview 
 This module introduced Python fundamentals for numerical computation, variable handling, and basic arithmetic—essential skills for data science.
 ### Key Concepts
@@ -218,5 +218,6 @@ This module introduced Python fundamentals for numerical computation, variable h
 By completing this module, I developed additional foundational Python programming skills, including variable assignment, arithmetic operations, and basic problem-solving with numbers and strings. I learned to interpret code, predict outputs, and implement simple algorithms, which are essential skills for data manipulation and scientific computing in Python.
 ### Overall Outcome
 This module laid the groundwork for future data science tasks, providing the basic numerical and programming literacy needed to progress to more advanced Python topics such as lists, loops, functions, and data analysis.
+#### kaggle kernels output abrahamkadusei/exercise-syntax-variables-and-numbers -p /path/to/dest
 
 
