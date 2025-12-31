@@ -1,4 +1,4 @@
-# 00 – Introduction to Programming (Python)
+# INTRODUCTION TO PROGRAMMING (Python)
 ### Lessons Overview
 1. Arithmetic and Variables  
 2. Functions  
@@ -183,7 +183,40 @@ By completing this module, I developed proficiency in using Python lists for str
 ### Overall Outcome
 This module strengthened my understanding of Python’s core data structures and their practical applications in analytics and modeling tasks. The ability to efficiently manipulate lists provides a critical foundation for working with larger datasets using libraries such as pandas, NumPy, and scikit-learn in subsequent projects.
 
+---
 
-
+# PYTHON (Detail)
+### Lessons Overview
+1. Hello, Python 
+2. Functions and Getting Help  
+3. Booleans and Conditionals
+4. Lists
+5. Loops and List Comprehensions
+6. Strings and Dictionaries
+7. working with external Libraries
+---
+### Hello, Python 
+### Overview 
+This module introduced Python fundamentals for numerical computation, variable handling, and basic arithmetic—essential skills for data science.
+### Key Concepts
+- **Variables & Assignment**: Store and update values dynamically (`spam_amount = 0; spam_amount += 4`)
+- **Comments**: Use `#` for readability.
+- **Printing & Functions**: `print()` displays output; `type()` checks variable type.
+- **Strings**: Can be concatenated (`+`) or repeated (`*`).
+- **Numbers & Arithmetic**: 
+  - `int` and `float` types
+  - Operators: `+`, `-`, `*`, `/`, `//`, `%`, `**`, `-a`
+  - True division (`/`) vs floor division (`//`)
+- **Order of Operations**: Follow PEMDAS; use parentheses to control precedence.
+- **Built-in Functions**: `min()`, `max()`, `abs()`, `int()`, `float()`.
+### Practical Exercises
+- Calculate area of a circle
+- Swap variables
+- Use modulo to find remainders
+- Apply parentheses to enforce operation order
+### Learning Outcome
+By completing this module, I developed additional foundational Python programming skills, including variable assignment, arithmetic operations, and basic problem-solving with numbers and strings. I learned to interpret code, predict outputs, and implement simple algorithms, which are essential skills for data manipulation and scientific computing in Python.
+### Overall Outcome
+This module laid the groundwork for future data science tasks, providing the basic numerical and programming literacy needed to progress to more advanced Python topics such as lists, loops, functions, and data analysis.
 
 
