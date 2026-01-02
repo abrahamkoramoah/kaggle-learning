@@ -195,7 +195,7 @@ This module strengthened my understanding of Python’s core data structures and
 6. Strings and Dictionaries
 7. working with external Libraries
 ---
-## Hello, Python (Syntax, Variables, and Numbers)
+## 001. Hello, Python (Syntax, Variables, and Numbers)
 ### Overview 
 This module introduced Python fundamentals for numerical computation, variable handling, and basic arithmetic—essential skills for data science.
 ### Key Concepts
@@ -219,5 +219,28 @@ By completing this module, I developed additional foundational Python programmin
 ### Overall Outcome
 This module laid the groundwork for future data science tasks, providing the basic numerical and programming literacy needed to progress to more advanced Python topics such as lists, loops, functions, and data analysis.
 #### kaggle kernels output abrahamkadusei/exercise-syntax-variables-and-numbers -p /path/to/dest
-
+---
+## 002. Functions and Getting Help
+### Overview
+This lesson introduces Python functions as a fundamental tool for writing reusable, readable, and efficient code. It covers both built-in functions and user-defined functions, with emphasis on documentation, flexibility, and practical problem-solving.
+### Key Concepts
+- **Built-in functions and help()**  
+  Used functions such as `print()`, `abs()`, and `round()`. Learned to use `help()` to understand function behavior, arguments, and defaults.
+- **Defining custom functions**  
+  Created functions using `def`, passed arguments, and returned values using `return` to avoid repetition and improve clarity.
+- **Docstrings**  
+  Added docstrings to describe function purpose and usage, making code self-explanatory and accessible through `help()`.
+- **Return values vs side effects**  
+  Distinguished between functions that return values and those that operate through side effects (e.g., printing output).
+- **Default arguments**  
+  Implemented optional parameters with default values to make functions more flexible and reusable.
+- **Higher-order functions**  
+  Explored passing functions as arguments and using built-in higher-order functions such as `max()` with the `key` parameter.
+### Applied Practice
+- Implemented rounding and utility functions
+- Modified functions to accept optional parameters
+- Debugged common function-related errors
+- Applied functions to real-world style problems (e.g., candy sharing logic)
+### Learning Outcome
+By completing this lesson, I gained practical experience writing modular, well-documented Python functions and applying them flexibly—an essential skill for data analysis, scientific computing, and machine learning workflows.
 
