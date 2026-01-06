@@ -4,7 +4,7 @@
 2. Functions  
 3. Data Types  
 4. Conditions and Conditional Statements  
-5. Introduction to Lists  
+5. Introduction to Lists
 **Notebook originally developed on Kaggle:**  
 #### https://www.kaggle.com/code/abrahamkadusei/abkor-getting-started-with-titanic  
 ---
